@@ -1,44 +1,70 @@
-# Pandas Tutorial 2026 - HERE AND NOW AI
+<div align="center">
 
-> **"AI is Good"**
-> [hereandnowai.com](https://hereandnowai.com)
+![HERE AND NOW AI](https://raw.githubusercontent.com/hereandnowai/images/refs/heads/main/logos/logo-of-here-and-now-ai.png)
 
-Welcome to the **Pandas Tutorial 2026** by [HERE AND NOW AI](https://hereandnowai.com). This repository contains a comprehensive set of Jupyter Notebooks and resources to master data analysis with Python and Pandas.
+# Pandas Tutorial 2026 - Data Analysis with Python by HERE AND NOW AI
 
-## 🚀 Overview
+### *"AI is Good"*
 
-This tutorial covers essential Pandas concepts, from loading data to advanced grouping and aggregation. It's designed for data scientists, developers, and AI enthusiasts look to leverage the power of Python for data manipulation.
+Comprehensive Pandas tutorial 2026 - data analysis with Python by HERE AND NOW AI.
 
-## 📁 Project Structure
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Organization](https://img.shields.io/badge/HERE%20AND%20NOW%20AI-hereandnowai-004040)](https://github.com/hereandnowai)
 
-This tutorial is organized into themed notebooks:
+</div>
 
-- `1-loading-data.ipynb`: Import data from various formats (CSV, Excel).
-- `2-dataframes-and-series.ipynb`: Core Pandas data structures.
-- `3-indexes.ipynb`: Setting and manipulating index values.
-- `4-filtering.ipynb`: Querying data with conditional logic.
-- `5-updating-rows-and-columns.ipynb`: Modifying existing dataframes.
-- `6-add-remove-rows-and-columns.ipynb`: Structuring your dataset.
-- `7-sorting-data.ipynb`: Organizing records efficiently.
-- `8-grouping-and-aggregating.ipynb`: Statistical analysis and data grouping.
+---
 
-## 🛠️ Getting Started
+## About
 
-1. Clone this repository.
-2. Ensure you have Python 3.x installed.
-3. Install dependencies:
-   ```bash
-   pip install pandas notebook
-   ```
-4. Launch Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
+This project is developed and maintained by **HERE AND NOW AI**. Comprehensive Pandas tutorial 2026 - data analysis with Python by HERE AND NOW AI.
 
-## 🏢 About HERE AND NOW AI
+Built for learners, developers, and teams who want to leverage Python, Pandas and Jupyter in real-world scenarios. All materials are crafted with a hands-on, practical approach to ensure maximum learning and productivity.
 
-At [HERE AND NOW AI](https://hereandnowai.com), we believe that **AI is Good**. We are dedicated to providing accessible, high-quality resources for the AI and data science community.
+## Features
 
-## ⚖️ License
+- Comprehensive Pandas coverage\n- 2026 updated content\n- Real-world data analysis examples\n- Jupyter notebook-based learning
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Getting Started
+
+### Prerequisites
+
+- See project files for specific requirements
+- Git
+
+### Installation
+
+```bash
+git clone https://github.com/hereandnowai/pandas-tutorial-2026.git
+cd pandas-tutorial-2026
+```
+
+## Usage
+
+Explore the project folders and follow the instructions in each subdirectory. Refer to inline comments and documentation for guidance.
+
+---
+
+## Connect with HERE AND NOW AI
+
+| | |
+|---|---|
+| 🌐 **Website** | [hereandnowai.com](https://hereandnowai.com) |
+| 📧 **Email** | [info@hereandnowai.com](mailto:info@hereandnowai.com) |
+| 📞 **Phone** | +91 996 296 1000 |
+| 💼 **LinkedIn** | [linkedin.com/company/hereandnowai](https://www.linkedin.com/company/hereandnowai/) |
+| 🐦 **X / Twitter** | [x.com/hereandnow_ai](https://x.com/hereandnow_ai) |
+| 📸 **Instagram** | [instagram.com/hereandnow_ai](https://instagram.com/hereandnow_ai) |
+| ▶️ **YouTube** | [youtube.com/@hereandnow_ai](https://youtube.com/@hereandnow_ai) |
+| 🐙 **GitHub** | [github.com/hereandnowai](https://github.com/hereandnowai) |
+| 📝 **Blog** | [hereandnowai.com/blog](https://hereandnowai.com/blog) |
+
+---
+
+<div align="center">
+
+**HERE AND NOW AI** — *AI is Good*
+
+© 2025 HERE AND NOW AI. All rights reserved.
+
+</div>
